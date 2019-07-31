@@ -1,3 +1,3 @@
 # OS_2019
-notes of installing of CentOS 7 &amp; Windows 10
+notes of installing of CentOS 7 & Windows 10
 shown in Wiki
